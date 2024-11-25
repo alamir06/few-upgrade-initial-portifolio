@@ -1,0 +1,21 @@
+
+
+.image_anaimation{
+          animation-duration: 4s;
+          animation-name: example;
+          /* animation-delay: 2s; */
+          animation-iteration-count: infinite;
+          /* width: 250px;
+          height: 250px; */
+          border: 5px solid #708871;
+    border-radius: 50%;
+    border-top-left-radius: 400px;
+    /*  margin: 10px; */
+          
+}
+@keyframes example{
+    0%{background-color: green}
+    25%{background-color: yellow}
+    50%{background-color: red}
+    100%{background-color: blue}
+}

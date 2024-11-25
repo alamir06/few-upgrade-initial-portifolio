@@ -1,0 +1,205 @@
+
+
+.bg-body-tertiary{
+    background-color: #001F3F;
+    width: 100%;
+    margin: 5%;
+}
+.nav-item
+{
+    
+    font-weight: 900;
+    font-family: "dekko ",serif;
+    color: #181C14;
+    list-style: none;
+    /* background-color: red; */
+
+
+}
+.navbar{
+    background-color: #708871;
+     /*position: sticky;
+     top: 1em;
+     */
+}
+.cap{
+    text-transform: capitalize;
+}
+
+.img-fluid{
+    border: 5px solid #708871;
+    border-radius: 50%;
+    border-top-left-radius: 400px;
+   margin-left: 0px;
+    width: 250px;
+    height: 250px;
+}
+
+.text-body-emphasis{
+    font-family: "dekko ",serif;
+    font-size: 1.5rem;
+    font-weight: 900;
+}
+.h2-headinf{
+    font-family: "dekko ",serif;
+    font-weight: 900;
+    font-style: normal;
+    /* font-size: 1rem; */
+
+}
+.navbar{
+    box-shadow: 0 0 200px #000B58;
+}
+.col{
+    border-radius: 50%;
+}
+.textbg {
+    background-color: #FF2929;
+}
+.feat{
+    background-color: #FFF9BF;
+    margin: 5%;
+    border-radius: 10%;
+}
+.imggg{
+    width: 200;
+}
+/* .nav-item{
+    font-size: 1.5rem;
+} */
+ .cca{
+    background-color: #FFF4B7;
+ }
+.nav-link:hover{
+    /* background-color: #FFF7D1; */
+    /* border-radius: 50%; */
+    font-weight: 900;
+    font-size: 1rem;
+}
+.lead{
+    font-family: "dekko ",serif;
+        font-weight: 500;
+        
+      
+}
+.Skills{
+    font-family: "dekko ",serif;
+    font-size: 2.5rem;
+    font-weight: 900;
+
+}
+.card-body{
+    margin-left: 20%;
+}
+.etitle{
+    color: white;
+    font-size: 2rem;
+    padding-top: 25px;
+    margin-top: 10px;
+    padding-left: 50px;
+}
+.cardd{
+    border-radius: 50%;
+}
+.foote-image{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.ffna{
+    margin-right:100px ;
+    
+}
+.sk{
+    margin-left: 150px;
+}
+.cc{
+    border-bottom: 0 0 200px #FF2929;
+    background-color: #80C4E9;
+    border-top-left-radius: 400px;
+    border-top-right-radius: 400px;
+    box-shadow: 0 0 200px blue;
+    
+}
+.cc1{
+    border-bottom: 0 0 200px blue;
+    background-color: #EEE2B5;
+    border-top-left-radius: 400px;
+    border-top-right-radius: 400px;
+    box-shadow: 0 0 200px blue;
+}
+.cc2{
+    box-shadow: 0 0 200px blue;
+    background-color: #EEE2B5;
+    border-top-left-radius: 400px;
+    border-top-right-radius: 400px;
+}
+.fff{
+    background-color: #E07B39;
+    width: 100%;
+    height: 200px;
+    margin-bottom: 0px;
+}
+.education{
+    margin: 5%;
+
+}
+.ed-bc{
+    font-family: "dekko ",serif;
+    font-size: 2.5rem;
+    font-weight: 900;
+}
+
+.card-body1{
+    border: 5px solid #FFA27F;
+    border-color: #FFE0B5;
+    border-radius: 15px;
+    background-color: #F8EDE3;
+    box-shadow: 0 0 200px green;
+}
+.card-text{
+    font-family: "dekko ",serif;
+    color: #181C14;
+    padding: 5px;
+    font-weight: 800;
+
+
+}
+#button{
+   border: 10px solid #006BFF;
+   border-radius: 25%;
+}
+#button:hover{
+    background-color: #006BFF;
+    opacity: 0.5;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #003285;
+}
+.carddd{
+    border: 10px solid #597E52;
+    border-radius: 10%;
+    
+}
+
+footer{
+    margin-bottom: 0px;
+    background-color: #FEFFA7;
+    
+}
+h3{
+    font-family: "dekko ",serif;
+    font-weight: 900;
+    font-style: normal;
+    text-transform: capitalize;
+}
+.card-title{
+    padding: 15px;
+}
+.card-text2{
+    padding: 15px;
+}
+
+.footer{
+    font-weight: 900px;
+}
